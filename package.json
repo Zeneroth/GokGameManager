@@ -1,0 +1,19 @@
+{
+  "name": "gamemanagerserver",
+  "version": "1.0.0",
+  "description": "Gok new GameManager now with Web interface!",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.656.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gok",
+  "license": "ISC"
+}
